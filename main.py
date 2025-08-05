@@ -26,3 +26,4 @@ class Car:
 
 
 print("Bu faylda ish tugadi!!!")
+print("Davomi bor")
