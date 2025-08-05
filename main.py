@@ -24,3 +24,5 @@ class Car:
     def to_dict(self) -> dict:
         return self.__dict__
 
+
+print("Bu faylda ish tugadi!!!")
